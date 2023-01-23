@@ -1,0 +1,34 @@
+{
+  "student": {
+    "id": "1002",
+    "name": "Saule",
+    "surname": "Patamse"
+  },
+  "exam": {
+    "id": "101",
+    "examTitle": "OOP pagrindai",
+    "examType": "Testas"
+  },
+  "answers": [
+    {
+      "question": 1,
+      "answer": "c"
+    },
+    {
+      "question": 2,
+      "answer": "a"
+    },
+    {
+      "question": 3,
+      "answer": "a"
+    },
+    {
+      "question": 4,
+      "answer": "a"
+    },
+    {
+      "question": 5,
+      "answer": "c"
+    }
+  ]
+}

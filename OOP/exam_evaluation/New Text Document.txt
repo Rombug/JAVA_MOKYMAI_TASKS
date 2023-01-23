@@ -1,0 +1,16 @@
+{
+"egzaminai":[
+{
+"id":"101",
+"examTitle":"OOP pagrindai",
+"studentResult":[
+{
+"id":"1002",
+"vardas":"Saule",
+"pavarde":"Patamse",
+"score":7
+}
+]
+}
+]
+}
