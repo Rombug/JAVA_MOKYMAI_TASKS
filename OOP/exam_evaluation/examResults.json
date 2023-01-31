@@ -1,0 +1,23 @@
+{
+  "egzaminai" : [ {
+    "id" : "101",
+    "examTitle" : "OOP pagrindai",
+    "studentResult" : [ {
+      "vardas" : "Saule",
+      "pavarde" : "Patamse",
+      "score" : 7
+    }, {
+      "vardas" : "Vardukas",
+      "pavarde" : "Pavardukas",
+      "score" : 7
+    }, {
+      "vardas" : "Java",
+      "pavarde" : "Javaite",
+      "score" : 8
+    }, {
+      "vardas" : "Romanas",
+      "pavarde" : "Bugakovas",
+      "score" : 9
+    } ]
+  } ]
+}

@@ -1,8 +1,8 @@
 {
   "student": {
-    "id": "1002",
-    "name": "Saule",
-    "surname": "Patamse"
+    "id": "1001",
+    "name": "Romanas",
+    "surname": "Bugakovas"
   },
   "exam": {
     "id": "101",
@@ -12,7 +12,7 @@
   "answers": [
     {
       "question": 1,
-      "answer": "c"
+      "answer": "a"
     },
     {
       "question": 2,
@@ -20,14 +20,34 @@
     },
     {
       "question": 3,
-      "answer": "a"
+      "answer": "d"
     },
     {
       "question": 4,
-      "answer": "a"
+      "answer": "c"
     },
     {
       "question": 5,
+      "answer": "c"
+    },
+    {
+      "question": 6,
+      "answer": "c"
+    },
+    {
+      "question": 7,
+      "answer": "c"
+    },
+    {
+      "question": 8,
+      "answer": "b"
+    },
+    {
+      "question": 9,
+      "answer": "a"
+    },
+    {
+      "question": 10,
       "answer": "c"
     }
   ]
