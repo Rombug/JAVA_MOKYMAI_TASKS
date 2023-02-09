@@ -1,9 +1,0 @@
-[ {
-  "id" : 101,
-  "examTitle" : "OOP pagrindai",
-  "examType" : "Testas"
-}, {
-  "id" : 102,
-  "examTitle" : "OOP kodas",
-  "examType" : "Testas su keliais galimais atsakymais"
-} ]

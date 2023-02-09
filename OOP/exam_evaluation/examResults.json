@@ -3,21 +3,25 @@
     "id" : "101",
     "examTitle" : "OOP pagrindai",
     "studentResult" : [ {
-      "vardas" : "Saule",
-      "pavarde" : "Patamse",
-      "score" : 7
-    }, {
-      "vardas" : "Vardukas",
-      "pavarde" : "Pavardukas",
-      "score" : 7
-    }, {
+      "id" : "1004",
       "vardas" : "Java",
       "pavarde" : "Javaite",
       "score" : 8
     }, {
+      "id" : "1002",
+      "vardas" : "Saule",
+      "pavarde" : "Patamse",
+      "score" : 7
+    }, {
+      "id" : "1001",
       "vardas" : "Romanas",
       "pavarde" : "Bugakovas",
       "score" : 9
+    }, {
+      "id" : "1003",
+      "vardas" : "Vardukas",
+      "pavarde" : "Pavardukas",
+      "score" : 7
     } ]
   } ]
 }
